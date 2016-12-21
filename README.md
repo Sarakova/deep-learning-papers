@@ -6,6 +6,8 @@
 
 ## NIPS 2016
 
+* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1606.04474)
+
 * Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> [[arXiv]](https://arxiv.org/abs/1610.06258)
 
 * Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> [[arXiv]](https://arxiv.org/abs/1608.06019)
@@ -14,17 +16,6 @@
 
 <br>
 
-## DeepMind
-
-* M Fraccaro et al. <b> Sequential Neural Models with Stochastic Layers </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1605.07571)
-
-* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1606.04474)
-
-* Max Jaderberg et al. <b> Decoupled Neural Interfaces using Synthetic Gradients </b> (2016.8) [[arXiv]] (https://arxiv.org/abs/1608.05343)
-
-* A van den Oord et al <b> WaveNet: A Generative Model for Raw Audio </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.03499)
-
-<br>
 
 ## Image Captioning
 * Oriol Vinyals et al. <b> Show and Tell: A Neural Image Caption Generator </b> (2014.11) [[arXiv]] (https://arxiv.org/abs/1411.4555) 
