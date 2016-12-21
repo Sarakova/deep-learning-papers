@@ -1,20 +1,17 @@
-# Deeplearning Papers (2016.11.9 ~) 
-Deep learning paper list (ongoing)
-
-<br>
-
 ## ICLR 2017 OpenReview
 
 * Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
 <br>
 
-
 ## NIPS 2016
 
-* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
+* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> [[arXiv]](https://arxiv.org/abs/1610.06258)
 
-* Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1608.06019)
+* Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> [[arXiv]](https://arxiv.org/abs/1608.06019)
+
+* S. M. Ali Eslami et al. <b> Attend, Infer, Repeat: Fast Scene Understanding with Generative Models </b> [[arXiv]] (https://arxiv.org/abs/1603.08575)
+
 <br>
 
 ## DeepMind
@@ -28,22 +25,6 @@ Deep learning paper list (ongoing)
 * A van den Oord et al <b> WaveNet: A Generative Model for Raw Audio </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.03499)
 
 <br>
-
-
-## Google Brain Team
-
-* Amit Daniely et al. <b> Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity </b> (2016.2) [[arXiv]] (https://arxiv.org/abs/1602.05897)
-
-* S. M. Ali Eslami et al. <b> Attend, Infer, Repeat: Fast Scene Understanding with Generative Models </b> (2016.3) [[arXiv]] (https://arxiv.org/abs/1603.08575)
-
-
-
-
-<br>
-
-
-
-
 
 ## Image Captioning
 * Oriol Vinyals et al. <b> Show and Tell: A Neural Image Caption Generator </b> (2014.11) [[arXiv]] (https://arxiv.org/abs/1411.4555) 
