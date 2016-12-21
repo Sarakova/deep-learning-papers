@@ -14,7 +14,8 @@ Deep learning paper list (ongoing)
 
 * Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.06258)
 
-
+* Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1608.06019)
+<br>
 
 ## DeepMind
 
@@ -30,8 +31,6 @@ Deep learning paper list (ongoing)
 
 
 ## Google Brain Team
-
-* Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1608.06019)
 
 * Amit Daniely et al. <b> Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity </b> (2016.2) [[arXiv]] (https://arxiv.org/abs/1602.05897)
 
