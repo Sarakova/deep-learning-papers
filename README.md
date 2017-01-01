@@ -1,6 +1,14 @@
-## ICLR 2017 OpenReview
+## 2016-12
 
-* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
+* <i>Alexander Kolesnikov, Christoph H. Lampert. <b> Pyramid Pixel CNN (state-of-the-art in image modeling)</i></b> [[arXiv]] (https://arxiv.org/abs/1612.08185)
+* <i>Yann N. Dauphin et al. <b>Language Modeling with Gated Convolutional Networks </b></i>[[arXiv]] (https://arxiv.org/abs/1612.08083)
+* <i> Jiasen Lu et al. <b> Knowing When to Look </b>(state-of-the-art in image captioning)<i> [[arXiv]] (https://arxiv.org/abs/1612.01887)
+
+<br>
+
+## 2016.11
+
+* <i>Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b></i> [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
 <br>
 
@@ -24,7 +32,6 @@
 
 * Oriol Vinyals et al. <b> Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge </b> (2016.9) [[arXiv]] (https://arxiv.org/abs/1609.06647) [[tensorflow]] (https://github.com/tensorflow/models/tree/master/im2txt)
 
-* Jiasen Lu et al. <b> Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
 
 <br>
 
