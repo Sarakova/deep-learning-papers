@@ -2,7 +2,7 @@
 
 ## NIPS 2016
 
-* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> (NIPS 2016) [[arXiv]] (https://arxiv.org/abs/1606.04474)
+* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> [[arXiv]] (https://arxiv.org/abs/1606.04474)
 
 * Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> [[arXiv]](https://arxiv.org/abs/1610.06258)
 
@@ -16,13 +16,20 @@
 
 * Ian Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
 
+* Leon A. Gatys et al. <b>A Neural Algorithm of Artistic Style</b> (2015.8) [[arXiv]](https://arxiv.org/abs/1508.06576) [[code]](https://github.com/anishathalye/neural-style)
+
 * Alec Radford et al. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> (2015.11)  [[arXiv]](https://arxiv.org/abs/1511.06434)
 
 * X Chen et al. <b>InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.03657)
 
 * Junbo Zhao et al. <b>Energy-based Generative Adversarial Network</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.03126)
 
-* Aaron van den Oord et al. <b>Conditional Image Generation with PixelCNN Decoders</b> (2016.6) [[arXiv]]()
+* Aaron van den Oord, Alex Graves et al. <b>Conditional Image Generation with PixelCNN Decoders</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.05328)
+
+* Scott Reed, Honglak Lee et al. <b>Learning What and Where to Draw</b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.02454) [[code]](https://github.com/reedscot/nips2016)
+
+
+* <b></b> () [[arXiv]]() [[code]]()
 
 * Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
 
@@ -35,7 +42,7 @@
 
 <br>
 
-## Sequence to Sequence Learning
+## Sequence to Sequence Model
 
 * Kyunghyun Cho, Yoshua Bengio et al. <b>Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.1078)
 
@@ -54,4 +61,7 @@
 * Oriol Vinyals, Samy Bengio et al. <b>Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.06647)
 
 * Jiasen Lu et al. <b> Knowing When to Look (state-of-the-art in image captioning)</b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
+
+
+
 
