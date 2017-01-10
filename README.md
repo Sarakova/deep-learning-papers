@@ -6,9 +6,7 @@
 
 <br>
 
-## <i>2016.11</i>
 
-* <i>Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b></i> [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
 <br>
 
@@ -24,7 +22,14 @@
 
 <br>
 
+## Generative Model 
 
+* Ian J. Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
+
+* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
+
+
+* Pixel CNN
 
 
 
