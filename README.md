@@ -1,13 +1,4 @@
-## <i>2016-12</i>
 
-* <i>Yann N. Dauphin et al. <b>Language Modeling with Gated Convolutional Networks </b></i>[[arXiv]] (https://arxiv.org/abs/1612.08083)
-
-
-<br>
-
-
-
-<br>
 
 ## NIPS 2016
 
@@ -33,17 +24,34 @@
 
 * Aaron van den Oord et al. <b>Conditional Image Generation with PixelCNN Decoders</b> (2016.6) [[arXiv]]()
 
-* Ian Goodfellow. <b>NIPS 2016 Tutorial: Generative Adversarial Networks</b> (2016.12) [[arXiv]](https://arxiv.org/abs/1701.00160)
-
 * Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
 
 * Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
+* Ian Goodfellow. <b>NIPS 2016 Tutorial: Generative Adversarial Networks</b> (2016.12) [[arXiv]](https://arxiv.org/abs/1701.00160)
 
 * lexander Kolesnikov et al. <b> Pyramid Pixel CNN (state-of-the-art in image modeling)</b> [[arXiv]] (https://arxiv.org/abs/1612.08185)
 
 
+<br>
+
+## Sequence to Sequence Learning
+
+* Kyunghyun Cho, Yoshua Bengio et al. <b>Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.1078)
+
+* Ilya Sutskever, Oriol Vinyals, Quoc V. Le <b>Sequence to Sequence Learning with Neural Networks</b> (2014.9) [[arXiv]](https://arxiv.org/abs/1409.3215)
+
+* Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. <b>Neural Machine Translation by Jointly Learning to Align and Translate</b> (2014.9) [[arXiv]](https://arxiv.org/abs/1409.0473)
+
+<br>
+
 ## Image Captioning
+
+* Oriol Vinyals, Samy Bengio et al. <b>Show and Tell: A Neural Image Caption Generator</b> (2014.11) [[arXiv]](https://arxiv.org/abs/1411.4555)
+
+* Kelvin Xu, Jimmy Ba, Yoshua Bengio et al.<b>Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</b> (2015.2) [[arXiv]](https://arxiv.org/abs/1502.03044)
+
+* Oriol Vinyals, Samy Bengio et al. <b>Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.06647)
 
 * Jiasen Lu et al. <b> Knowing When to Look (state-of-the-art in image captioning)</b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
 
