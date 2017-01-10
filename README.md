@@ -24,15 +24,14 @@
 
 ## Generative Model 
 
-* Ian J. Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
+- Ian J. Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
+- Alec Radford et al. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> (2015.11)  [[arXiv]](https://arxiv.org/abs/1511.06434)
 
-* Alec Radford et al. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> () [[arXiv]]()
+* Xi Chen et al. <b>InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.03657)
 
-* <b></b> () [[arXiv]]()
+* Junbo Zhao et al. <b>Energy-based Generative Adversarial Network</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.03126)
 
-* <b></b> () [[arXiv]]()
-
-* <b></b> () [[arXiv]]()
+* A Oord et al. <b>Conditional Image Generation with PixelCNN Decoders</b> () [[arXiv]]()
 
 * <b></b> () [[arXiv]]()
 
