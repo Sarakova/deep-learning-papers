@@ -26,6 +26,16 @@
 
 * Ian J. Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
 
+* Alec Radford, Luke Metz, Soumith Chintala. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> () [[arXiv]]()
+
+* <b></b> () [[arXiv]]()
+
+* <b></b> () [[arXiv]]()
+
+* <b></b> () [[arXiv]]()
+
+* <b></b> () [[arXiv]]()
+
 * Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
 
