@@ -31,7 +31,7 @@
 
 * Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
 
-* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
+* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
 * Ian Goodfellow. <b>NIPS 2016 Tutorial: Generative Adversarial Networks</b> (2016.12) [[arXiv]](https://arxiv.org/abs/1701.00160)
 
