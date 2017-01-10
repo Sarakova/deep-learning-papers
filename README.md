@@ -35,7 +35,7 @@
 
 * Ian Goodfellow. <b>NIPS 2016 Tutorial: Generative Adversarial Networks</b> (2016.12) [[arXiv]](https://arxiv.org/abs/1701.00160)
 
-* lexander Kolesnikov et al. <b> Pyramid Pixel CNN (state-of-the-art in image modeling)</b> [[arXiv]] (https://arxiv.org/abs/1612.08185)
+* lexander Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition (2016.12)</b> [[arXiv]] (https://arxiv.org/abs/1612.08185)
 
 
 <br>
@@ -58,7 +58,7 @@
 
 * Oriol Vinyals, Samy Bengio et al. <b>Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.06647)
 
-* Jiasen Lu, Richard Socher et al. <b> Knowing When to Look (state-of-the-art in image captioning)</b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
+* Jiasen Lu, Richard Socher et al. <b> Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
 
 
 
