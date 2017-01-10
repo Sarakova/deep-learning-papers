@@ -26,7 +26,7 @@
 
 * Ian J. Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
 
-* Alec Radford, Luke Metz, Soumith Chintala. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> () [[arXiv]]()
+* Alec Radford et al. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> () [[arXiv]]()
 
 * <b></b> () [[arXiv]]()
 
