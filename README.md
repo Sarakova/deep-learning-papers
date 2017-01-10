@@ -25,6 +25,9 @@
 
 * Junbo Zhao et al. <b>Energy-based Generative Adversarial Network</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.03126)
 
+* Aaron van den Oord et al. <b>Pixel Recurrent Neural Networks</b> (2016.1) [[arXiv]](https://arxiv.org/pdf/1601.06759v3.pdf)
+
+
 * Aaron van den Oord, Alex Graves et al. <b>Conditional Image Generation with PixelCNN Decoders</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.05328)
 
 * Scott Reed, Honglak Lee et al. <b>Learning What and Where to Draw</b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.02454) [[code]](https://github.com/reedscot/nips2016)
