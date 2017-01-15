@@ -36,9 +36,11 @@
 
 * Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) 
 
+* Anh Nguyen, Yoshua Bengio et al. <b> Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space </b> (2016.11) [[arXiv]](https://arxiv.org/abs/1612.00005)
+
 * Ian Goodfellow. <b>NIPS 2016 Tutorial: Generative Adversarial Networks</b> (2016.12) [[arXiv]](https://arxiv.org/abs/1701.00160)
 
-* lexander Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition (2016.12)</b> [[arXiv]] (https://arxiv.org/abs/1612.08185)
+* lexander Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.08185)
 
 
 <br>
