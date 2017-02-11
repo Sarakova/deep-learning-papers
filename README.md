@@ -15,9 +15,9 @@
 
 ## Generative Model 
 
-* Ian Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
+#### Adversarial Learning
 
-* Leon A. Gatys et al. <b>A Neural Algorithm of Artistic Style</b> (2015.8) [[arXiv]](https://arxiv.org/abs/1508.06576) [[code]](https://github.com/anishathalye/neural-style)
+* Ian Goodfellow et al. <b>Generative Adversarial Networks</b> (2014.6) [[arXiv]](https://arxiv.org/abs/1406.2661)
 
 * Alec Radford et al. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> (2015.11)  [[arXiv]](https://arxiv.org/abs/1511.06434)
 
@@ -25,14 +25,7 @@
 
 * Junbo Zhao et al. <b>Energy-based Generative Adversarial Network</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.03126)
 
-* Aaron van den Oord et al. <b>Pixel Recurrent Neural Networks</b> (2016.1) [[arXiv]](https://arxiv.org/pdf/1601.06759v3.pdf)
-
-
-* Aaron van den Oord, Alex Graves et al. <b>Conditional Image Generation with PixelCNN Decoders</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.05328)
-
 * Scott Reed, Honglak Lee et al. <b>Learning What and Where to Draw</b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.02454) [[code]](https://github.com/reedscot/nips2016)
-
-* Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
 
 * Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) [[code]](https://github.com/yunjey/dtn-tensorflow)
 
@@ -40,7 +33,22 @@
 
 * Ian Goodfellow. <b>NIPS 2016 Tutorial: Generative Adversarial Networks</b> (2016.12) [[arXiv]](https://arxiv.org/abs/1701.00160)
 
+#### Pixel RNN/CNN
+
+* Aaron van den Oord et al. <b>Pixel Recurrent Neural Networks</b> (2016.1) [[arXiv]](https://arxiv.org/pdf/1601.06759v3.pdf)
+
+* Aaron van den Oord, Alex Graves et al. <b>Conditional Image Generation with PixelCNN Decoders</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.05328)
+
+* Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
+
 * lexander Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.08185)
+
+
+#### Unclassified
+
+* Leon A. Gatys et al. <b>A Neural Algorithm of Artistic Style</b> (2015.8) [[arXiv]](https://arxiv.org/abs/1508.06576) [[code]](https://github.com/anishathalye/neural-style)
+
+
 
 
 <br>
