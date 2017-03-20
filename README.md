@@ -3,13 +3,13 @@
 
 ## NIPS 2016
 
-* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> [[arXiv]] (https://arxiv.org/abs/1606.04474)
+* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> [[arXiv]](https://arxiv.org/abs/1606.04474)
 
 * Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> [[arXiv]](https://arxiv.org/abs/1610.06258)
 
 * Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> [[arXiv]](https://arxiv.org/abs/1608.06019)
 
-* S. M. Ali Eslami et al. <b> Attend, Infer, Repeat: Fast Scene Understanding with Generative Models </b> [[arXiv]] (https://arxiv.org/abs/1603.08575)
+* S. M. Ali Eslami et al. <b> Attend, Infer, Repeat: Fast Scene Understanding with Generative Models </b> [[arXiv]](https://arxiv.org/abs/1603.08575)
 
 <br>
 
@@ -27,7 +27,7 @@
 
 * Scott Reed, Honglak Lee et al. <b>Learning What and Where to Draw</b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.02454) [[code]](https://github.com/reedscot/nips2016)
 
-* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]] (http://104.155.136.4:3000/forum?id=Sk2Im59ex) [[code]](https://github.com/yunjey/dtn-tensorflow)
+* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) [[ICLR 2017 open review]](http://104.155.136.4:3000/forum?id=Sk2Im59ex) [[code]](https://github.com/yunjey/dtn-tensorflow)
 
 * Anh Nguyen, Yoshua Bengio et al. <b> Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space </b> (2016.11) [[arXiv]](https://arxiv.org/abs/1612.00005)
 
@@ -41,7 +41,7 @@
 
 * Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
 
-* lexander Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.08185)
+* lexander Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition </b> (2016.12) [[arXiv]](https://arxiv.org/abs/1612.08185)
 
 
 #### Unclassified
@@ -71,7 +71,7 @@
 
 * Oriol Vinyals, Samy Bengio et al. <b>Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.06647)
 
-* Jiasen Lu, Richard Socher et al. <b> Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning </b> (2016.12) [[arXiv]] (https://arxiv.org/abs/1612.01887)
+* Jiasen Lu, Richard Socher et al. <b> Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning </b> (2016.12) [[arXiv]](https://arxiv.org/abs/1612.01887)
 
 
 
