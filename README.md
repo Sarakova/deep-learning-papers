@@ -12,13 +12,13 @@
 
 * Alec Radford et al. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b> (2015.11)  [[arXiv]](https://arxiv.org/abs/1511.06434)
 
-* X Chen et al. <b>InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.03657)
+* X Chen et al. <b>InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</b> (2016.6) (NIPS 2016) [[arXiv]](https://arxiv.org/abs/1606.03657)
 
 * Junbo Zhao et al. <b>Energy-based Generative Adversarial Network</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.03126)
 
 * Scott Reed, Honglak Lee et al. <b>Learning What and Where to Draw</b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.02454) [[code]](https://github.com/reedscot/nips2016)
 
-* Taigman et al. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) <i>(ICLR 2017)</i> [[arXiv]](https://arxiv.org/abs/1611.02200) [[code]](https://github.com/yunjey/dtn-tensorflow)
+* Taigman et al. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) (ICLR 2017) [[arXiv]](https://arxiv.org/abs/1611.02200) [[code]](https://github.com/yunjey/dtn-tensorflow)
 
 * Anh Nguyen, Yoshua Bengio et al. <b> Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space </b> (2016.11) [[arXiv]](https://arxiv.org/abs/1612.00005)
 
@@ -30,7 +30,7 @@
 
 * Aaron van den Oord, Alex Graves et al. <b>Conditional Image Generation with PixelCNN Decoders</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1606.05328)
 
-* Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
+* Salimans, Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) (ICLR 2017) [[arXiv]](https://arxiv.org/pdf/1701.05517.pdf) [[code]](https://github.com/openai/pixel-cnn)
 
 * Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition </b> (2016.12) [[arXiv]](https://arxiv.org/abs/1612.08185)
 
