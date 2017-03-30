@@ -18,7 +18,7 @@
 
 * Scott Reed, Honglak Lee et al. <b>Learning What and Where to Draw</b> (2016.10) [[arXiv]](https://arxiv.org/abs/1610.02454) [[code]](https://github.com/reedscot/nips2016)
 
-* Yaniv Taigman, Adam Polyak, Lior Wolf. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) (ICLR 2017) [[arXiv]](https://arxiv.org/abs/1611.02200) [[code]](https://github.com/yunjey/dtn-tensorflow)
+* Taigman et al. <b>Unsupervised Cross-Domain Image Generation</b> (2016.11) <i>(ICLR 2017)</i> [[arXiv]](https://arxiv.org/abs/1611.02200) [[code]](https://github.com/yunjey/dtn-tensorflow)
 
 * Anh Nguyen, Yoshua Bengio et al. <b> Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space </b> (2016.11) [[arXiv]](https://arxiv.org/abs/1612.00005)
 
