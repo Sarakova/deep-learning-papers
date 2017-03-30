@@ -1,15 +1,6 @@
 # Deep Learning Papers
 
 
-## NIPS 2016
-
-* M Andrychowicz et al. <b> Learning to Learn by Gradient Descent by Gradient Descent </b> [[arXiv]](https://arxiv.org/abs/1606.04474)
-
-* Jimmy Ba et al. <b> Using Fast Weights to Attend to the Recent Past </b> [[arXiv]](https://arxiv.org/abs/1610.06258)
-
-* Konstantinos Bousmalis et al. <b> Domain Separation Networks </b> [[arXiv]](https://arxiv.org/abs/1608.06019)
-
-* S. M. Ali Eslami et al. <b> Attend, Infer, Repeat: Fast Scene Understanding with Generative Models </b> [[arXiv]](https://arxiv.org/abs/1603.08575)
 
 <br>
 
@@ -41,15 +32,22 @@
 
 * Tim Salimans, Andrej Karpathy et al. <b>PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications</b> (2016.11) [[ICLR 2017 open review]](https://openreview.net/forum?id=BJrFC6ceg)
 
-* lexander Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition </b> (2016.12) [[arXiv]](https://arxiv.org/abs/1612.08185)
+* Kolesnikov et al. <b> Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition </b> (2016.12) [[arXiv]](https://arxiv.org/abs/1612.08185)
 
 
 #### Unclassified
 
 * Leon A. Gatys et al. <b>A Neural Algorithm of Artistic Style</b> (2015.8) [[arXiv]](https://arxiv.org/abs/1508.06576) [[code]](https://github.com/anishathalye/neural-style)
 
+<br>
 
+## Reinforcement Learning
 
+#### DQN 
+
+* Mnih et al. <b>Playing Atari with Deep Reinforcement Learning</b> (2013.12) [[arXiv]](https://arxiv.org/abs/1312.5602)
+
+* Mnih et al. <b>Human-level control through deep reinforcement learning</b> (2015.1) [[nature]](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 
 <br>
 
@@ -60,6 +58,8 @@
 * Ilya Sutskever, Oriol Vinyals, Quoc V. Le. <b>Sequence to Sequence Learning with Neural Networks</b> (2014.9) [[arXiv]](https://arxiv.org/abs/1409.3215)
 
 * Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. <b>Neural Machine Translation by Jointly Learning to Align and Translate</b> (2014.9) [[arXiv]](https://arxiv.org/abs/1409.0473)
+
+* Bahdanau et al. <b>An Actor-Critic Algorithm for Sequence Prediction</b> (2016.6) [[arXiv]](https://arxiv.org/abs/1607.07086)
 
 <br>
 
@@ -72,6 +72,8 @@
 * Oriol Vinyals, Samy Bengio et al. <b>Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge</b> (2016.9) [[arXiv]](https://arxiv.org/abs/1609.06647)
 
 * Jiasen Lu, Richard Socher et al. <b> Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning </b> (2016.12) [[arXiv]](https://arxiv.org/abs/1612.01887)
+
+* Siqi Liu et al. <b>Improved Image Captioning via Policy Gradient optimization of SPIDEr</b> (2016.12) [[arXiv]](https://arxiv.org/abs/1612.00370)
 
 
 
